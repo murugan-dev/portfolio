@@ -1,6 +1,6 @@
 // import React from 'react'
 
-import Profile from "../../assets/Profile.jpeg";
+import Profile from "../../assets/profile.jpeg";
 import ConConnectionMedia from "../ConnectionMedia/index";
 
 const Home = () => {
