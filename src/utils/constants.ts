@@ -93,7 +93,7 @@ export type Project = {
 // Project images
 import EcommerceApplicationImg from "../assets/Ecommerce_Application.png";
 import PinterestCloneImg from "../assets/Pinterest_Clone.png";
-import PhonePeCloneImg from "../assets/PhonePe_clone.png";
+import PhonePeCloneImg from "../assets/Phonepe_clone.png";
 import FunFruitCloneImg from "../assets/Funfruit_Clone.png";
 import LinkedInCloneImg from "../assets/LinkedIn_clone.png";
 import RoleBasedAuthenticationImg from "../assets/RBAC_Board.png";
