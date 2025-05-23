@@ -94,12 +94,12 @@ export type Project = {
 import EcommerceApplicationImg from "../assets/Ecommerce_Application.png";
 import PinterestCloneImg from "../assets/Pinterest_Clone.png";
 import PhonePeCloneImg from "../assets/Phonepe_clone.png";
-import FunFruitCloneImg from "../assets/Funfruit_Clone.png";
+import FunFruitCloneImg from "../assets/Funfruit_clone.png";
 import LinkedInCloneImg from "../assets/LinkedIn_clone.png";
 import RoleBasedAuthenticationImg from "../assets/RBAC_Board.png";
 import SimanGameImg from "../assets/siman_game.png";
-import QuizAppImg from "../assets/Quiz_App.png";
-import TodoAppImg from "../assets/ToDo_App.png";
+import QuizAppImg from "../assets/Quiz_app.png";
+import TodoAppImg from "../assets/ToDo_app.png";
 
 export const projects: Project[] = [
   {
