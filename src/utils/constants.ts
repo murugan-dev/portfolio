@@ -95,7 +95,7 @@ import EcommerceApplicationImg from "../assets/Ecommerce_Application.png";
 import PinterestCloneImg from "../assets/Pinterest_Clone.png";
 import PhonePeCloneImg from "../assets/Phonepe_clone.png";
 import FunFruitCloneImg from "../assets/Funfruit_clone.png";
-import LinkedInCloneImg from "../assets/LinkedIn_clone.png";
+import LinkedInCloneImg from "../assets/Linkedin_clone.png";
 import RoleBasedAuthenticationImg from "../assets/RBAC_Board.png";
 import SimanGameImg from "../assets/siman_game.png";
 import QuizAppImg from "../assets/Quiz_app.png";
